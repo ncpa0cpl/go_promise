@@ -1,4 +1,4 @@
-package promise
+package go_promise
 
 import (
 	"sync"
